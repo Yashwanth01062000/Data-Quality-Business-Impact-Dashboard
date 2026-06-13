@@ -10,7 +10,7 @@ The dashboard enables data governance teams, business leaders, and analysts to m
 
 ## Dashboard Preview
 
-![Dashboard](Data Quality & Business Impact – Executive Dashboard_page-0001.jpg)
+![Dashboard](dashboard.jpg)
 
 
 ---
